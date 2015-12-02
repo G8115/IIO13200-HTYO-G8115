@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileRenamer2", "FileRenamer2\FileRenamer2.csproj", "{4F0598F4-E954-47A0-84EE-8802FD0B4908}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9ADA9DE7-24AB-4718-9C29-ABD89F5268E1}"
+	ProjectSection(SolutionItems) = preProject
+		NET HARJTO README.pdf = NET HARJTO README.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F0598F4-E954-47A0-84EE-8802FD0B4908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0598F4-E954-47A0-84EE-8802FD0B4908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0598F4-E954-47A0-84EE-8802FD0B4908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0598F4-E954-47A0-84EE-8802FD0B4908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
